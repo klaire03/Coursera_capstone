@@ -12,3 +12,5 @@ IBM - Data Science - W3 - Part III.ipynb --> Python code related to Week 3 cours
 IBM Capstone - Final report.pdf --> The final report on the Capstone project entitled: "Using k-means clustering to compare cities in UK and Spain"
 
 capstoneproject.ipynb --> The Python code for the Capstone project
+
+IBM Data Science - Final Presentation.pdf --> The final presentation of the Capstone project
