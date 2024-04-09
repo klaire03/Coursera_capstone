@@ -1,7 +1,7 @@
 # Coursera_capstone
 
 Venue Mapping: Exploring Urban Similarities in the UK and Spain
-
+The objective of this project (part of IBM Data Science Professional Certificate) is to explore similarities and differences between two cities in UK and Spain by analyzing venue-related data using k-means clustering.
 
 
 In the Coursera_capstone folder you can find Python code for IBM Data Science Specialization. Specifically:
